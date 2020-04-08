@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Playground1",
+"dataUrl": "asdf.data.unityweb",
+"wasmCodeUrl": "asdf.wasm.code.unityweb",
+"wasmFrameworkUrl": "asdf.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
